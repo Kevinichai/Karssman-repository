@@ -1,95 +1,42 @@
 {
-  "transactions": [
+  "vehicles": [
     {
       "id": "1",
-      "date": "2019-12-01",
-      "description": "Paycheck from Bob's Burgers",
-      "category": "Income",
-      "amount": 1000
+      "title": "2004 Mazda Tribute",
+      "image": "https://www.instagram.com/p/C94dSXai6dL/",
+      "description": "The 2004 Mazda Tribute is a compact SUV known for its reliable 2.3-liter petrol engine, spacious interior, and car-like handling. It offers a comfortable ride, good fuel efficiency, and versatility for both city driving and long trips. However, its design feels a bit outdated, and the interior materials are not top-notch. The specific model with over 2 million kilometers might have reduced fuel efficiency due to wear, but at 560,000 KES, it presents good value if thoroughly inspected."
     },
     {
       "id": "2",
-      "date": "2019-12-01",
-      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
-      "category": "Food",
-      "amount": -10.55
+      "title": "2008 Nissan Bluebird",
+      "image": "https://www.instagram.com/p/C94Qq6jiMQK/",
+      "description": "The 2008 Nissan Bluebird is a 2000cc petrol, automatic vehicle in good running condition. It's well-known for being reliable and affordable to run and maintain. With a mileage of 126,000 KMS, it is priced at 650,000 KES (Negotiable). Viewing is available in Lavington. Contact: 0745-900-205."
     },
     {
       "id": "3",
-      "date": "2019-12-02",
-      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
-      "category": "Food",
-      "amount": -10.55
+      "title": "2010 Toyota Corolla",
+      "image": "https://www.instagram.com/p/C94RRvqi2dK/",
+      "description": "The 2010 Toyota Corolla is a dependable sedan with a 1.8-liter petrol engine, perfect for daily commuting. With a mileage of 80,000 KMS, it offers excellent fuel efficiency and is priced at 850,000 KES."
     },
     {
       "id": "4",
-      "date": "2019-12-04",
-      "description": "Sunglasses, Urban Outfitters",
-      "category": "Fashion",
-      "amount": -24.99
+      "title": "2012 Honda CR-V",
+      "image": "https://www.instagram.com/p/C94Svn4i2YJ/",
+      "description": "The 2012 Honda CR-V is a well-rounded compact SUV with a 2.4-liter engine and an automatic transmission. Known for its reliability and comfort, it is an excellent choice for families. The vehicle has a mileage of 90,000 KMS and is priced at 1,200,000 KES."
     },
     {
       "id": "5",
-      "date": "2019-12-06",
-      "description": "Venmo, Alice Pays you for Burrito",
-      "category": "Food",
-      "amount": 8.75
+      "title": "2015 BMW X5",
+      "image": "https://www.instagram.com/p/C94T0Vqi1FM/",
+      "description": "The 2015 BMW X5 is a luxury midsize SUV with a 3.0-liter turbocharged engine. It combines performance with luxury, offering advanced features and a comfortable ride. This model has a mileage of 70,000 KMS and is priced at 3,500,000 KES."
     },
     {
       "id": "6",
-      "date": "2019-12-06",
-      "description": "Chipotle",
-      "category": "Food",
-      "amount": -17.59
-    },
-    {
-      "id": "7",
-      "date": "2019-12-07",
-      "description": "Birthday Check from Grandma",
-      "category": "Gift",
-      "amount": 50
-    },
-    {
-      "id": "8",
-      "date": "2019-12-09",
-      "description": "Lyft Ride",
-      "category": "Transportation",
-      "amount": -13.25
-    },
-    {
-      "id": "9",
-      "date": "2019-12-11",
-      "description": "Paycheck from Bob's Burgers",
-      "category": "Income",
-      "amount": 1000
-    },
-    {
-      "id": "10",
-      "date": "2019-12-16",
-      "description": "Tickets, Flatiron Multiplex Cinemas",
-      "category": "Entertainment",
-      "amount": -24
-    },
-    {
-      "id": "11",
-      "date": "2019-12-16",
-      "description": "MTA Vending Machine: MetroCard",
-      "category": "Transportation",
-      "amount": -116.39
-    },
-    {
-      "id": "12",
-      "date": "2019-12-17",
-      "description": "Venmo, Pay Roommate for Rent",
-      "category": "Housing",
-      "amount": -975
-    },
-    {
-      "id": "2659",
-      "date": "2003-10-23",
-      "description": "free",
-      "category": "food",
-      "amount": 0
+      "title": "2018 Mercedes-Benz C-Class",
+      "image": "https://www.instagram.com/p/C94U3g5i1KM/",
+      "description": "The 2018 Mercedes-Benz C-Class is a premium sedan with a 2.0-liter turbocharged engine. It offers a blend of luxury, technology, and performance. The vehicle has a mileage of 40,000 KMS and is priced at 4,200,000 KES."
     }
   ]
 }
+
+  
